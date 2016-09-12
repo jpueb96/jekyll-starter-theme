@@ -1,10 +1,10 @@
 ---
 layout: default
-title:  Welcome
+title:  I changed this
 ---
 
 # {{ page.title }}
-
+# hi
 
 _Add your text here_
 
